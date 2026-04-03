@@ -7,4 +7,4 @@
 | R2 | El pago puede aprobarse pero no reflejarse | 7 | 5 | 8 | Genera inconsistencias|
 | R3 | Datos incorrectos del cliente | 5 | 8 | 7 | Mala experiencia |
 | R4 | Lentitud al cargar productos | 5 | 5  | 5 | Afecta ventas |
-| R5 | Error al descargar comprobantes | 3 | 5 | 2 | No es crítico |
+| R5 | Error al descargar comprobantes | 3 | 5 | 2 | No es crítico | 
